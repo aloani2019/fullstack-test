@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.abdul.learning"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "monolith",
+    "baseName": "jhipster",
+    "packageName": "com.abdul.learning",
+    "packageFolder": "com/abdul/learning",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Y2MyYmNhY2U5MTE4MTliODlhNzRhMmFkOTUxYjk4MzhjODNiNTg5YmJkZjRhNzY4YmQzOTk2N2Q0YjUwYTg0NDlkZDdjMjU4ZWI1Y2U1ZWY3OTE0ZGJhNWE5M2EyYTlkMDIyNGNhNTcyNmQ5MTQzOGMxM2MwOThmNTc1NzJiN2E=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1585955353020,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
